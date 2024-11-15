@@ -1,4 +1,3 @@
----
 
 # 👋 Hi, I'm [Ridham Kumar]!
 
@@ -32,8 +31,6 @@
 - ⭐ **95+% in **  **National Level Coding** Contests.
 - 🏅 Developed tools that enhanced security by **60%**.
 - 📈 Solved **[200]+ coding problems** on LeetCode Geek for Geek's +mode.
-
----
 <!---
 RidhamKumar15/RidhamKumar15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
