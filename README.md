@@ -1,5 +1,3 @@
-Here’s a template for a **cool GitHub profile README** that showcases your skills, projects, and personality:
-
 ---
 
 # 👋 Hi, I'm [Ridham Kumar]!
