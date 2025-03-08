@@ -8,7 +8,6 @@
 
 # 💻 Tech Stack:
 ## 🚀 Languages and Tools I Use  
-<h2>🚀 Languages and Tools I Use</h2>
 <p style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?&style=flat-square&logo=csharp&logoColor=white" alt="C#" />
