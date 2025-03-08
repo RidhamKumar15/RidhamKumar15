@@ -1,5 +1,9 @@
-# Hello World!, I'm Tobi, a German Web Developer 👋🏼:
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+# 🌍 Hello World! I'm RIDHAM KUMAR, an Indian Web Developer 👋🏼  
+🛠️ Currently building my own [Portfolio Website](https://ridhamkumar15.github.io/Ridham-Kumar-Resume/)  
+🎓 Learning and mastering full-stack .NET development  
+💻 Freelancing and working on exciting web development projects  
+🌱 Always exploring new technologies and sharpening my skills  
+🎥 Planning to start my own tech-focused YouTube channel soon  
 
 
 # 💻 Tech Stack:
