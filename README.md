@@ -1,6 +1,9 @@
 
-# Hello World!, I'm RIDHAM KUMAR, a INDIAN Web Developer 👋🏼:
-🛜 currently working on my own [webpage](https://ridhamkumar15.github.io/Ridham-Kumar-Resume/)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+# Hello World! I'm Ridham Kumar, an Indian Web Developer 👋🏼
+🛜 Currently working on my own [webpage](https://ridhamkumar15.github.io/Ridham-Kumar-Resume/)<br>
+🎓 Studying B.Tech in Computer Science at Guru Nanak Dev University<br>
+💻 Working as a web developer since 2025<br>
+🖥️ Doing software development since 2024<br>
 
 
 # 💻 Tech Stack:
