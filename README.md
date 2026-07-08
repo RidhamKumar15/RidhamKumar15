@@ -2,23 +2,23 @@
 
 # Hi 👋 I'm Ridham Kumar
 
-### Software Engineer • Java Backend Developer • DevOps Enthusiast
+### Software Engineer • Java Developer • DevOps Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Cloud-Native+Applications;Java+%7C+Spring+Boot+%7C+DevOps;Docker+%7C+Kubernetes+%7C+AWS;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Cloud-Native+Applications;Java+Developer+%7C+DevOps;Docker+%7C+Kubernetes+%7C+AWS;Always+Learning+New+Technologies" />
 
 <p>
 Passionate about building scalable backend systems, cloud-native infrastructure, and developer tools.
 </p>
 
-<a href="https://freejsontocsv.com">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-freejsontocsv.com-blue?style=for-the-badge" />
+<a href="#">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Under_Maintenance-orange?style=for-the-badge" />
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/ridham-kumar-71a802290">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:ridhamverma843@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -33,12 +33,12 @@ Passionate about building scalable backend systems, cloud-native infrastructure,
 # 🚀 About Me
 
 - 💻 Software Engineer passionate about **Backend Development** and **DevOps**
-- ☕ Building scalable applications with **Java** and **Spring Boot**
+- ☕ Building scalable applications using **Java**
 - 🐳 Learning **Docker**, **Kubernetes**, **AWS**, **Terraform**, and **CI/CD**
 - 🚀 Creator of **Free JSON to CSV**, a privacy-first online converter
-- 📚 Solving Data Structures & Algorithms
-- 🌱 Exploring System Design & Cloud Architecture
-- ⚡ Love building automation tools and solving real-world problems
+- 📚 Solving **Data Structures & Algorithms**
+- 🌱 Exploring **System Design** and **Cloud Architecture**
+- ⚡ Passionate about automation, cloud technologies, and developer productivity
 
 ---
 
@@ -50,10 +50,10 @@ Passionate about building scalable backend systems, cloud-native infrastructure,
 <img src="https://skillicons.dev/icons?i=java,cpp,c,python,cs,javascript" />
 </p>
 
-### 🌐 Backend & Web
+### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,html,css,bootstrap,tailwind,dotnet" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,dotnet" />
 </p>
 
 ### 🗄️ Database
@@ -75,9 +75,10 @@ Passionate about building scalable backend systems, cloud-native infrastructure,
 </p>
 
 ---
+
 ### 🤖 AI Developer Workflow
 
-<p align="left">
+<p>
 
 <img src="https://img.shields.io/badge/OpenAI-74AA9C?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
